@@ -62,7 +62,10 @@ def ocr_infer(infile_image):
 
     os.system(command_convert_image)
     img = Image.open(outfile_image)
-    txt = pyt.image_to_string(img, lang='asm+eng')
+
+    custom_config = r'--oem 3 --psm 6'
+
+    txt = pyt.image_to_string(img, lang='asm+eng', config=custom_config)
 
     with open(outfile_txt, "w+") as text_file:
         text_file.write(txt)
