@@ -1,0 +1,20 @@
+2024-04-10 11:48:29,792 [MainProcess: 39366] [MainThread: 139691759157888] [INFO] __main__: API is starting up at: 2024-04-10 11:48:29.792283
+2024-04-10 11:49:04,436 [MainProcess: 39445] [MainThread: 139972619633280] [INFO] __main__: API is starting up at: 2024-04-10 11:49:04.436297
+2024-04-10 11:49:20,395 [MainProcess: 39520] [MainThread: 140705683317376] [INFO] __main__: API is starting up at: 2024-04-10 11:49:20.395481
+2024-04-10 11:49:20,406 [MainProcess: 39520] [MainThread: 140705683317376] [INFO] main_fastapi_log: API is starting up at: 2024-04-10 11:49:20.406346
+2024-04-10 12:16:56,292 [MainProcess: 41376] [MainThread: 140128738902656] [INFO] __main__: API is starting up at: 2024-04-10 12:16:56.292281
+2024-04-10 12:16:56,296 [MainProcess: 41376] [MainThread: 140128738902656] [INFO] main_fastapi_log: API is starting up at: 2024-04-10 12:16:56.296889
+2024-04-10 12:16:59,841 [MainProcess: 41376] [MainThread: 140128738902656] [INFO] main_fastapi_log: Received image for conversion--> /home/self/workspace/AAII/OCR/ocr-image.png at 2024-04-10 12:16:59.841043
+2024-04-10 12:17:14,348 [MainProcess: 41447] [MainThread: 140459157193344] [INFO] __main__: API is starting up at: 2024-04-10 12:17:14.348330
+2024-04-10 12:17:14,353 [MainProcess: 41447] [MainThread: 140459157193344] [INFO] main_fastapi_log: API is starting up at: 2024-04-10 12:17:14.353012
+2024-04-10 12:17:17,006 [MainProcess: 41447] [MainThread: 140459157193344] [INFO] main_fastapi_log: Received image for conversion--> /home/self/workspace/AAII/OCR/ocr-image.png at 2024-04-10 12:17:17.006861
+2024-04-10 12:18:06,871 [MainProcess: 41525] [MainThread: 140118924841600] [INFO] __main__: API is starting up at: 2024-04-10 12:18:06.871710
+2024-04-10 12:18:06,876 [MainProcess: 41525] [MainThread: 140118924841600] [INFO] main_fastapi_log: API is starting up at: 2024-04-10 12:18:06.876387
+2024-04-10 12:18:09,740 [MainProcess: 41525] [MainThread: 140118924841600] [INFO] main_fastapi_log: Received image for conversion--> /home/self/workspace/AAII/OCR/ocr-image.png at 2024-04-10 12:18:09.740239
+2024-04-10 12:18:10,385 [MainProcess: 41525] [MainThread: 140118924841600] [INFO] main_fastapi_log: Processing complete for /home/self/workspace/AAII/OCR/ocr-image.png
+2024-04-10 12:18:10,385 [MainProcess: 41525] [MainThread: 140118924841600] [INFO] main_fastapi_log: Image /home/self/workspace/AAII/OCR/ocr-image.png uploaded and processed successfully.
+2024-04-10 12:27:43,014 [MainProcess: 42014] [MainThread: 139643445703296] [INFO] __main__: API is starting up at: 2024-04-10 12:27:43.014857
+2024-04-10 12:27:43,019 [MainProcess: 42014] [MainThread: 139643445703296] [INFO] main_fastapi_log: API is starting up at: 2024-04-10 12:27:43.019424
+2024-04-10 12:28:32,318 [MainProcess: 42014] [MainThread: 139643445703296] [INFO] main_fastapi_log: Received image for conversion--> /home/self/workspace/AAII/OCR/test.jpeg at 2024-04-10 12:28:32.318602
+2024-04-10 12:28:33,563 [MainProcess: 42014] [MainThread: 139643445703296] [INFO] main_fastapi_log: Processing complete for /home/self/workspace/AAII/OCR/test.jpeg
+2024-04-10 12:28:33,563 [MainProcess: 42014] [MainThread: 139643445703296] [INFO] main_fastapi_log: Image /home/self/workspace/AAII/OCR/test.jpeg uploaded and processed successfully.
